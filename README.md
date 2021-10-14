@@ -11,7 +11,7 @@ HelloWorld()
 // cpp
 #include <iostream>
 void HelloWorld(){
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello World" << std::endl;
 }
 int main()
 {
@@ -26,4 +26,11 @@ HelloWorld(){
     echo "Hello World"
 }
 HelloWorld
+```
+
+```applescript
+on HelloWorld()
+	return "Hello World"
+end HelloWorld
+return HelloWorld()
 ```
