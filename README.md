@@ -29,7 +29,6 @@ HelloWorld
 ```
 
 ```applescript
---applescript
 on HelloWorld()
 	return "Hello World"
 end HelloWorld
